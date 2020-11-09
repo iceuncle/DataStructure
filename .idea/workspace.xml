@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b28aaf7b-00c8-44a5-b412-2af61ca22290" name="Default" comment="" />
+    <list default="true" id="b28aaf7b-00c8-44a5-b412-2af61ca22290" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bst/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bst/BST.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +18,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1a19l181POindX1t6wLPb2XCPsU" />
   <component name="ProjectViewState">
@@ -286,6 +292,21 @@
       <workItem from="1586422407090" duration="289000" />
       <workItem from="1586500176074" duration="69000" />
       <workItem from="1586999368133" duration="27000" />
+      <workItem from="1596441028294" duration="3000" />
+      <workItem from="1596783326915" duration="358000" />
+      <workItem from="1597766828060" duration="3663000" />
+      <workItem from="1598238093006" duration="10000" />
+      <workItem from="1598325302515" duration="960000" />
+      <workItem from="1598409060458" duration="423000" />
+      <workItem from="1598865018827" duration="3000" />
+      <workItem from="1598867139538" duration="643000" />
+      <workItem from="1600164949466" duration="8118000" />
+      <workItem from="1602558985413" duration="153000" />
+      <workItem from="1602559722208" duration="1372000" />
+      <workItem from="1603102021836" duration="16000" />
+      <workItem from="1603862783582" duration="610000" />
+      <workItem from="1604631916459" duration="1309000" />
+      <workItem from="1604888574195" duration="539000" />
     </task>
     <servers />
   </component>
@@ -300,6 +321,19 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="340" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1586402352243">

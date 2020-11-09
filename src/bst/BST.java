@@ -115,6 +115,21 @@ public class BST<E extends Comparable<E>> {
         inOrder(node.right);
     }
 
+    public void inorder(Node root) {
+        Node cur = root;
+        Stack<Node> stack = new Stack<>();
+        while (!stack.isEmpty() || cur != null) {
+            if (cur != null) {
+                stack.push(cur);
+                cur = cur.left;
+            } else {
+                cur = stack.pop();
+                System.out.println(cur.e);
+                cur = cur.right;
+            }
+        }
+    }
+
     //后序遍历  左->右->中
     public void postOrder() {
         postOrder(root);
